@@ -18,5 +18,8 @@ Implementing a custom Dice coefficient metric
 Applying model predictions to individual images/frames
 Visualizing ground-truth masks, overlays, and predictions
 
+<img width="1090" height="137" alt="image" src="https://github.com/user-attachments/assets/77ea669c-26ee-475a-88d9-79861bbb2aae" />
+
+<img width="1061" height="193" alt="image" src="https://github.com/user-attachments/assets/78d008f0-1f08-4882-a02c-b788605cd186" />
 
 
